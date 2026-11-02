@@ -31,3 +31,8 @@ docker compose up --build
 cd todo-api
 DATABASE_URL="sqlite:///./test.db" pytest -v --cov=app
 ```
+
+## Screenshots
+
+<img width="1917" height="1026" alt="Screenshot 2026-11-02 125535" src="https://github.com/user-attachments/assets/7a6835ef-1594-44b7-b2da-74b4371dbe38" />
+
